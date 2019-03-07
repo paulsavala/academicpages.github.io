@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Savala / Whittier College"
+title                    : "Paul Savala / St Edward's University"
 title_separator          : "-"
 name                     : &name "Paul Savala"
-description              : &description "personal description"
+description              : &description "Assistant Professor of Mathematics at St. Edward's University"
 url                      : https://paulsavala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulsavala/paulsavala.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Paul Savala"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor at Whittier College"
-  location         : "Whittier, CA"
-  employer         : "Whittier College"
+  bio              : "Assistant Professor of Mathematics at St. Edward's University"
+  location         : "Austin, TX"
+  employer         : "St. Edward's University"
   googlescholar    : 
-  email            : "psavala@whittier.edu"
+  email            : "paulsavala@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
