@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : psavala
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "paulsavala"
+  twitter          : "psavala"
   vine             :
   weibo            :
   xing             :
