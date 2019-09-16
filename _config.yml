@@ -14,7 +14,7 @@ description              : &description "Assistant Professor of Mathematics at S
 url                      : https://paulsavala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulsavala/paulsavala.github.io"
-teaser                   : me-running-selfie.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Savala"
-  avatar           : "profile.png"
+  avatar           : "me-running-selfie.png"
   bio              : "Assistant Professor of Mathematics at St. Edward's University"
   location         : "Austin, TX"
   employer         : "St. Edward's University"
